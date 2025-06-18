@@ -20,7 +20,8 @@ Reimplementation of the board game *Cryptid* as an online multiplayer strategy g
 Bachelor thesis project: implementation and analysis of a probabilistic clustering method. Focus on scalability, comparison to single-assignment clustering, and structure discovery in high-dimensional Boolean data.  
 **🔒 Private repository – available upon request**
 
+---
 
-For questions or access to private projects, feel free to open an issue in this repository.
+## 📫 For questions or access to private projects, feel free to open an issue in this repository.
 
 
