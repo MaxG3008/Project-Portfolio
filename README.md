@@ -22,6 +22,6 @@ Bachelor thesis project: implementation and analysis of a probabilistic clusteri
 
 ---
 
-## 📫 For questions or access to private projects, feel free to open an issue in this repository.
+### 📫 For questions or access to private projects, feel free to open an issue in this repository.
 
 
