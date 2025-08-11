@@ -6,11 +6,11 @@ Welcome! This repository gives an overview of selected technical projects I’ve
 
 ## 🚀 Featured Projects
 
-### 🔷 Cryptid Multiplayer Game [Private]
+### 🔷 Cryptid Multiplayer Game
 > Java / OOP / GUI / Multiplayer
 
 Reimplementation of the board game *Cryptid* as an online multiplayer strategy game using Java. Developed full game logic, GUI via Figma prototype, and custom networking.  
-**🔒 Private repository – available upon request**
+**[Cryptid](https://github.com/MaxG3008/Cryptid)**
 
 ---
 
